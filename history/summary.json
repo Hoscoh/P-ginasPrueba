@@ -5,7 +5,7 @@
     "slug": "guess-eu",
     "status": "up",
     "uptime": "100.00",
-    "time": 1763
+    "time": 1633
   },
   {
     "name": "GuessCA",
@@ -13,7 +13,7 @@
     "slug": "guess-ca",
     "status": "up",
     "uptime": "100.00",
-    "time": 642
+    "time": 608
   },
   {
     "name": "GuessNa",
@@ -21,7 +21,7 @@
     "slug": "guess-na",
     "status": "up",
     "uptime": "100.00",
-    "time": 306
+    "time": 255
   },
   {
     "name": "MarcianoEU",
@@ -29,6 +29,6 @@
     "slug": "marciano-eu",
     "status": "up",
     "uptime": "100.00",
-    "time": 1387
+    "time": 1292
   }
 ]
