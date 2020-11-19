@@ -6,14 +6,14 @@ repo: P-ginasPrueba # Your Github repository name
 sites:
   - name: GuessEU
     url: https://www.guess.eu
-  - name: Guess.CA
+  - name: GuessCA
     url: https://www.guess.com/ca/en/home/?changeCountry=1
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: GuessNa
+    url: https://www.guess.com/us/en_US/home/?changeCountry=1
+  - name: MarcianoEU
+    url: https://www.guess.eu/fr-fr/marciano?INTCMP=REFRESH_SUMMER_HERO_WOMEN_ES
+  #- name: Secret Site
+  #  url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
