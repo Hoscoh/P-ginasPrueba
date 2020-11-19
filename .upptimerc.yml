@@ -4,10 +4,10 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: GuessEU
+    url: https://www.guess.eu
+  - name: Guess.CA
+    url: https://www.guess.com/ca/en/home/?changeCountry=1
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Broken Site
