@@ -5,38 +5,30 @@
     "slug": "guess-eu",
     "status": "up",
     "uptime": "100.00",
-    "time": 1834
+    "time": 1763
   },
   {
-    "name": "Guess.CA",
+    "name": "GuessCA",
     "url": "https://www.guess.com/ca/en/home/?changeCountry=1",
     "slug": "guess-ca",
     "status": "up",
     "uptime": "100.00",
-    "time": 661
+    "time": 642
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "GuessNa",
+    "url": "https://www.guess.com/us/en_US/home/?changeCountry=1",
+    "slug": "guess-na",
     "status": "up",
     "uptime": "100.00",
-    "time": 326
+    "time": 306
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
+    "name": "MarcianoEU",
+    "url": "https://www.guess.eu/fr-fr/marciano?INTCMP=REFRESH_SUMMER_HERO_WOMEN_ES",
+    "slug": "marciano-eu",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 0
+    "time": 1387
   }
 ]
