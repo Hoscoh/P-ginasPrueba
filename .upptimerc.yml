@@ -21,7 +21,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /P-ginasPrueba
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: HolaBuenas
+  name: PruebaPáginasWeb
   introTitle: Chequeame esta
   introMessage: Vamos a ver que tal
   navbar:
