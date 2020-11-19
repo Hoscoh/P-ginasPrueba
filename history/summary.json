@@ -5,7 +5,7 @@
     "slug": "guess-eu",
     "status": "up",
     "uptime": "100.00",
-    "time": 686
+    "time": 1971
   },
   {
     "name": "Guess.CA",
@@ -13,7 +13,7 @@
     "slug": "guess-ca",
     "status": "up",
     "uptime": "100.00",
-    "time": 967
+    "time": 731
   },
   {
     "name": "Hacker News",
@@ -21,7 +21,7 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00",
-    "time": 186
+    "time": 236
   },
   {
     "name": "Broken Site",
@@ -36,7 +36,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "100.00",
+    "uptime": "99.99",
     "time": 0
   }
 ]
