@@ -1,0 +1,7 @@
+- url: https://www.guess.com/us/en_US/home/?changeCountry=1
+- status: up
+- code: 200
+- responseTime: 306
+- lastUpdated: 2020-11-19T20:40:35.763Z
+- startTime: 2020-11-19T20:40:35.454Z
+- generator: Upptime <https://github.com/upptime/upptime>
