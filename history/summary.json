@@ -1,19 +1,19 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "GuessEU",
+    "url": "https://www.guess.eu",
+    "slug": "guess-eu",
     "status": "up",
     "uptime": "100.00",
-    "time": 88
+    "time": 686
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Guess.CA",
+    "url": "https://www.guess.com/ca/en/home/?changeCountry=1",
+    "slug": "guess-ca",
     "status": "up",
     "uptime": "100.00",
-    "time": 135
+    "time": 967
   },
   {
     "name": "Hacker News",
@@ -21,22 +21,22 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00",
-    "time": 339
+    "time": 186
   },
   {
     "name": "Broken Site",
     "url": "https://thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
-    "uptime": "99.96",
+    "uptime": "100.00",
     "time": 0
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 49
+    "time": 0
   }
 ]
